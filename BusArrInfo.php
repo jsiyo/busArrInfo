@@ -2,7 +2,7 @@
 class BusArrInfo {
     public $data        = array();
     public $stationId   = '226000134d';
-    private $serviceKey = 'LXhm00eBon1Cgmw7fax%2FhiqKRH5e%2FAbozrx%2BF5VXBeaEBePfGTAT1jKC0zXndIovFm%2FuquIINT%2Bd1exRD4XWUA%3D%3D';
+    private $serviceKey = 'YOUR SERVICEKEY';
     private $params     = array();
 
     public function __construct($stationId = null) {
