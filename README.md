@@ -15,11 +15,9 @@ public $stationId   = 'STATION ID';
 5. 인스턴스 생성 후 본인의 입맛에 맞게 요리한다.
 ```php
 $app    = new BusArrInfo();
-or
-BusArrInfo;
+// 정류장 ID setting
+$app    = new BusArrInfo('YOUR STATIONID');
 ```
-
-
 
 ## License
 MIT

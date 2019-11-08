@@ -1,7 +1,7 @@
 <?php
 class BusArrInfo {
     public $data        = array();
-    public $stationId   = '226000134d';
+    public $stationId   = 'YOUR STATIONID';
     private $serviceKey = 'YOUR SERVICEKEY';
     private $params     = array();
 
